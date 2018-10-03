@@ -1,6 +1,7 @@
 {
     "name": "diam4ik/test-git-labels",
     "description": "Test git labels",
+    "license": "MIT",
     "authors": [
         {
             "name": "Zhilskiy, Dmitriy",
