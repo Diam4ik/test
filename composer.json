@@ -1,0 +1,12 @@
+{
+    "name": "diam4ik/test-git-labels",
+    "description": "Test git labels",
+    "authors": [
+        {
+            "name": "Zhilskiy, Dmitriy",
+            "email": "Dmitriy.Zhilskiy@ocsico.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
