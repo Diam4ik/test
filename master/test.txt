@@ -1,4 +1,5 @@
 - commit in develop, will merge it into master
 - commit 1 in master
+- commit 2 in master
 - commit 1 in develop
 - commit 2 in develop
